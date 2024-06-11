@@ -29,10 +29,12 @@ To evaluate my model on ALE/MsPacman-v5, run:
 
 ```eval
 # For Q-learning
-python DRL_final_code/code/Q/Q_test.py
+cd DRL_final_code/code/Q
+python Q_test.py
 
 # For PPO
-python DRL_final_code/code/PPO/PPO_test.py
+cd DRL_final_code/code/PPO
+python PPO_test.py
 ```
 
 
