@@ -48,15 +48,18 @@ You can download pretrained models here:
 
 Our model achieves the following performance on :
 
-### [Image Classification on ImageNet](https://paperswithcode.com/sota/image-classification-on-imagenet)
+Q-learning learning curve:
+![total_reward_episode_8000](https://github.com/Flora-Liao/DRL_final_MsPacman/assets/92087054/7c72a9ea-a914-45af-adc2-0e1cf8aa11e2)
 
-| Model name         | Top 1 Accuracy  | Top 5 Accuracy |
-| ------------------ |---------------- | -------------- |
-| My awesome model   |     85%         |      95%       |
-
->📋  Include a table of results from your paper, and link back to the leaderboard for clarity and context. If your main result is a figure, include that figure and link to the command or notebook to reproduce it. 
+PPO learning curve:
+![total_rewards_250](https://github.com/Flora-Liao/DRL_final_MsPacman/assets/92087054/1c618d58-5be3-46b1-919f-d5d737bf33f8)
 
 
-## Contributing
+| Model name         | Average Rewards  | 
+| ------------------ |---------------- | 
+| Random agent   |    221        |  
+| Q-learning agent   |     326        |   
+|PPO agent  |     967         |   
 
->📋  Pick a licence and describe how to contribute to your code repository. 
+
+
