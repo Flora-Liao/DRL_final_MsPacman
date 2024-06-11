@@ -40,9 +40,9 @@ python DRL_final_code/code/PPO/PPO_test.py
 
 You can download pretrained models here:
 
-- [My awesome model](https://drive.google.com/mymodel.pth) trained on ImageNet using parameters x,y,z. 
+- [Q-learning model](https://github.com/Flora-Liao/DRL_final_MsPacman/blob/main/DRL_final_code/code/Q/data/ckpt_episode_8000.pt)
+- [PPO model](https://github.com/Flora-Liao/DRL_final_MsPacman/blob/main/DRL_final_code/code/PPO/data/mspacman_249.pkl)
 
->📋  Give a link to where/how the pretrained models can be downloaded and how they were trained (if applicable).  Alternatively you can have an additional column in your results table with a link to the models.
 
 ## Results
 
