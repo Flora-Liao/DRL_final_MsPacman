@@ -21,7 +21,7 @@ To train the PPO in the paper, run this command:
 ```train
 python DRL_final_code/code/PPO/PPO_train.py
 ```
-
+You can change pre-trained models in test code.
 
 ## Evaluation
 
